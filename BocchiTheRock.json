@@ -4,5 +4,25 @@
   "artist": "Aki Hamazi",
   "author": "",
   "cover": "https://m.media-amazon.com/images/I/81DubR7340L._AC_UF1000,1000_QL80_.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "1",
+      "last_updated": "1703611540",
+      "groups": {
+        "Piyaphat Scan": [
+          "https://raw.githubusercontent.com/piyaphatliamwilai/btr/master/chapter-1/01.jpg",
+          "https://raw.githubusercontent.com/piyaphatliamwilai/btr/master/chapter-1/02.jpg",
+          "https://raw.githubusercontent.com/piyaphatliamwilai/btr/master/chapter-1/03.jpg",
+          "https://raw.githubusercontent.com/piyaphatliamwilai/btr/master/chapter-1/04.jpg",
+          "https://raw.githubusercontent.com/piyaphatliamwilai/btr/master/chapter-1/05.jpg",
+          "https://raw.githubusercontent.com/piyaphatliamwilai/btr/master/chapter-1/06.jpg",
+          "https://raw.githubusercontent.com/piyaphatliamwilai/btr/master/chapter-1/07.jpg",
+          "https://raw.githubusercontent.com/piyaphatliamwilai/btr/master/chapter-1/08.jpg",
+          "https://raw.githubusercontent.com/piyaphatliamwilai/btr/master/chapter-1/09.jpg",
+          "https://raw.githubusercontent.com/piyaphatliamwilai/btr/master/chapter-1/10.jpg"
+        ]
+      }
+    }
+  }
 }
